@@ -1,6 +1,4 @@
-package main.java.practice;
-
-import main.java.practice.Student;
+package main.java.practice.controlstatements;
 
 public class ControlStatementsPractice {
     public static void main(String[] args){
